@@ -1,0 +1,56 @@
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+*.bak
+*.tmp
+
+# MATLAB generated folders/files
+slprj/
+*.slxc
+*.mex*
+
+# EEG raw and processed data
+*.set
+*.fdt
+*.mat
+*.edf
+*.bdf
+*.cnt
+*.cdt
+*.dap
+*.vhdr
+*.vmrk
+*.eeg
+
+# Analysis outputs and exported tables
+*.xlsx
+*.xls
+*.csv
+*.fig
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+*.node
+*.edge
+
+# Common intermediate folders
+_step*/
+_preica/
+_ica/
+_rm_ica/
+done/
+results/
+result/
+outputs/
+output/
+figures/
+figure/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
